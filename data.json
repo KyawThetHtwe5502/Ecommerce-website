@@ -1,0 +1,138 @@
+{
+    
+            "today-products": [
+                {
+                    "id": 1,
+                    "name": "HAVIT HV-G92 Gamepad",
+                    "img": "gamepad.png",
+                    "originalPrice":160,
+                    "discountPercentage": -40,
+                    "discountPrice": 120,
+                    "rate": 88
+                },
+                {
+                    "id": 2,
+                    "name": "AK-900 Wired Keyboard",
+                    "img": "keyboard.png",
+                    "originalPrice": 1160,
+                    "discountPercentage": -35,
+                    "discountPrice": 960,
+                    "rate": 75
+                },
+                {
+                    "id": 3,
+                    "name": "IPS LCD Gaming Monitor",
+                    "img": "monitor.png",
+                    "originalPrice": 400,
+                    "discountPercentage": -30,
+                    "discountPrice": 370,
+                    "rate": 99
+                },
+                {
+                    "id": 4,
+                    "name": "S-Series Comfort Chair",
+                    "img": "chair.png",
+                    "originalPrice": 400,
+                    "discountPercentage": -25,
+                    "discountPrice": 375,
+                    "rate": 99
+                }
+            ]
+        ,
+            "best-selling-products": [
+                {
+                    "id": 1,
+                    "name": "The north coat",
+                    "img": "Gucci-coat.png",
+                    "originalPrice":360,
+                    "discountPrice": 220,
+                    "rate": 65
+                },
+                {
+                    "id": 2,
+                    "name": "Gucci duffle bag",
+                    "img": "Light-Gucci-bag.png",
+                    "originalPrice": 1160,
+                    "discountPrice": 960,
+                    "rate": 65
+                },
+                {
+                    "id": 3,
+                    "name": "RGB liquid CPU Cooler",
+                    "img": "cpu-cooler.png",
+                    "originalPrice": 170,
+                    "discountPrice": 160,
+                    "rate": 65
+                },
+                {
+                    "id": 4,
+                    "name": "Small BookSelf",
+                    "img": "small-bookself.png",
+                    "discountPrice": 360,
+                    "rate": 65
+                }
+            ]
+        ,
+            "our-products": [
+                {
+                    "id": 1,
+                    "name": "Breed Dry Dog Food",
+                    "img": "dog-food.png",
+                    "discountPrice":100,
+                    "rate": 35
+                },
+                {
+                    "id": 2,
+                    "name": "CANON EOS DSLR Camera",
+                    "img": "camera.png",
+                    "discountPrice": 360,
+                    "rate": 95
+                },
+                {
+                    "id": 3,
+                    "name": "ASUS FHD Gaming Laptop",
+                    "img": "ideapad-gaming.png",
+                    "discountPrice": 700,
+                    "rate": 325
+                },
+                {
+                    "id": 4,
+                    "name": "Curology Product Set",
+                    "img": "curology.png",
+                    "discountPrice": 500,
+                    "rate": 145
+                },
+                {
+                    "id": 5,
+                    "name": "Kids Electric Car",
+                    "img": "Mercedes-Benz.png",
+                    "discountPrice": 960,
+                    "rate": 65,
+                    "beget": "new"
+                },
+                {
+                    "id": 6,
+                    "name": "Jr. Zoom Soccer Cleats",
+                    "img": "Copa_Sense.png",
+                    "discountPrice": 1160,
+                    "rate": 35
+                },
+                {
+                    "id": 7,
+                    "name": "GP11 Shooter USB Gamepad",
+                    "img": "GP11_PRD3.png",
+                    "discountPrice": 660,
+                    "rate": 55
+                },
+                {
+                    "id": 8,
+                    "name": "Quilted Satin Jacket",
+                    "img": "satin-jacket.png",
+                    "discountPrice": 660,
+                    "rate": 55
+                }
+            ],
+            "carts": [
+                
+            ]
+}
