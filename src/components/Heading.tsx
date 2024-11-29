@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Container from "./Container"
 import { Input } from "./ui/input"
 import {CiHeart, CiSearch, CiShoppingCart} from "react-icons/ci";
@@ -14,7 +15,7 @@ const Heading = () => {
         <ul className="flex items-center gap-x-12">
             <li>Home</li>
             <li>Contact</li>
-            <li>About</li>
+            <Link to="/about">About</Link>
             <li>Sign Up</li>
         </ul>
         </div>

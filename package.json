@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "api": "npx json-server data.json -d 500 -p 5000 --watch",
+    "api": "npx json-server data.json -p 5000 --watch",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
